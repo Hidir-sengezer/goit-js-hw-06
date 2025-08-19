@@ -30,9 +30,10 @@
         "parser": "json"
       }
     }
-  ]
-  "parser": "babel",
-  "plugins": [
-    "prettier-plugin-svelte"
-  ]
+  ],
+   "parser": "babel",
+   "plugins": [
+    "prettier-plugin-svelte"]
+  
+  
 }

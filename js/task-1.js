@@ -28,3 +28,4 @@ console.log(customer.getDiscount());
 customer.addOrder(5000, "Steak");
 console.log(customer.getBalance()); 
 console.log(customer.getOrders()); 
+console.log(customer.getOrders()); 
